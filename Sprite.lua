@@ -9,6 +9,6 @@ function Sprite.Show( self )
 end
 function Sprite:move(  )
 	self.x=self.x+10
-	self.y=self.y+10
+	self.y=self.y
 end
 return Sprite
