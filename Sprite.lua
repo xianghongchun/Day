@@ -9,7 +9,11 @@ function Sprite.Show( self )
 end
 function Sprite:move(  )
 	self.x=self.x+10
-	self.y=self.y
+	self.y=self.y+10
 end
+<<<<<<< HEAD
 return Sprite
 -----
+=======
+return Sprite
+>>>>>>> parent of 0f0d9aa... 删了
