@@ -12,4 +12,4 @@ function Sprite:move(  )
 	self.y=self.y
 end
 return Sprite
------
+
